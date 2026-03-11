@@ -5,7 +5,7 @@
 
 This repository contains a Universal Scene Description (USD) file showcasing the integration of Agentforce's Atlas Reasoning Engine with Cobalt AI robotics in a simulated enterprise office environment. Built in NVIDIA Isaac Sim, this digital twin demonstrates how autonomous agents extend beyond digital interactions into physical automation for facilities management and Field Service operations.
 
-![Lobby Scene](/images/Lobby.png)
+![Lobby Scene](/images/lobby.png)
 
 **Technical Implementation**
 
